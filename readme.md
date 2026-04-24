@@ -83,7 +83,7 @@ $total          = $\_POST\['total'] ?? '';
 
 
 
-### 3. ¿Qué riesgos de seguridad identificas en una app web con BD que maneja datos de los usuarios? ¿Cómo los mitigarían?
+#### 3. ¿Qué riesgos de seguridad identificas en una app web con BD que maneja datos de los usuarios? ¿Cómo los mitigarían?
 
 La Despensa de Don Juan opera en la zona oriental de El Salvador y su sistema maneja datos personales y comerciales de los clientes: nombres completos, correos electrónicos, números de teléfono, NIT y montos de pedidos. Esto representa una responsabilidad legal y ética ante los usuarios, por lo que identificamos los siguientes riesgos y sus mitigaciones:
 
@@ -217,11 +217,11 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 ---
 
-## 📚 Diccionario de Datos
+#### Diccionario de Datos
 
 ---
 
-### Tabla: `usuarios`
+#### Tabla: `usuarios`
 
 Almacena las credenciales del personal autorizado para acceder al sistema de administración.
 
@@ -236,7 +236,7 @@ Almacena las credenciales del personal autorizado para acceder al sistema de adm
 
 ---
 
-### Tabla: `productos`
+#### Tabla: `productos`
 
 Almacena el catálogo completo de productos que ofrece La Despensa de Don Juan.
 
@@ -253,7 +253,7 @@ Almacena el catálogo completo de productos que ofrece La Despensa de Don Juan.
 
 ---
 
-### Tabla: `pedidos`
+#### Tabla: `pedidos`
 
 Registra cada uno de los pedidos realizados por los clientes de la tienda.
 
