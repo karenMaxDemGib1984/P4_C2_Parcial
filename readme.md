@@ -1,3 +1,8 @@
+###### Karen Esmeralda Portillo Portillo SMSS202223
+###### Yolanda Isabel Marroquín Ulloa SMSS047424
+
+
+
 ###### La Despensa de Don Juan — Sistema de Tienda en Línea
 
 **Proyecto:** App web con base de datos relacional en PHP  
