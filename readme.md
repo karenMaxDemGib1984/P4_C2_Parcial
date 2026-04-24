@@ -83,7 +83,7 @@ $total          = $\_POST\['total'] ?? '';
 
 
 
-#### 3. ¿Qué riesgos de seguridad identificas en una app web con BD que maneja datos de los usuarios? ¿Cómo los mitigarían?
+###### 3. ¿Qué riesgos de seguridad identificas en una app web con BD que maneja datos de los usuarios? ¿Cómo los mitigarían?
 
 La Despensa de Don Juan opera en la zona oriental de El Salvador y su sistema maneja datos personales y comerciales de los clientes: nombres completos, correos electrónicos, números de teléfono, NIT y montos de pedidos. Esto representa una responsabilidad legal y ética ante los usuarios, por lo que identificamos los siguientes riesgos y sus mitigaciones:
 
